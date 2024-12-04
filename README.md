@@ -30,7 +30,7 @@ O projeto é organizado em vários arquivos, cada um representando uma classe ou
    Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/luatuce/lp2-banco.git
-   cd sistema-bancario
+   cd lp2-banco
 3. **Compilar os Arquivos:**
    Compile todos os arquivos .java no projeto:
    ```bash
