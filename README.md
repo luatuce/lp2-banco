@@ -26,16 +26,16 @@ O projeto é organizado em vários arquivos, cada um representando uma classe ou
 
 ### Passos
 
-1. **Clonar o repositório**  
+1. **Clonar o repositório**
    Clone o repositório para sua máquina local:
    ```bash
    git clone <URL-DO-REPOSITORIO>
    cd sistema-bancario
-2. **Compilar os Arquivos**
+3. **Compilar os Arquivos**
    Compile todos os arquivos .java no projeto:
    ```bash
    javac *.java
-3. **Executar o Programa**
+4. **Executar o Programa**
    Execute a classe principal Banco:
    ```bash
    java Banco
